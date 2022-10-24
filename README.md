@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mtanriover
-- 👀 I’m interested in Powerbuilder, Oracle PL/SQL, SQL, c#, HTML, CSS, JS
+- 👀 I’m interested in Powerbuilder, Oracle PL/SQL(advanced), SQL, c#, HTML, CSS, JS
 - 🌱 I’m currently learning java, JS
 - 💞️ I’m looking to collaborate on Powerbuilder & PL/SQL based web projects
 - 📫 How to reach me? 
